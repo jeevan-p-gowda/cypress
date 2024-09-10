@@ -1,4 +1,4 @@
-# cypress-overview
+# cypress-overview <img align="right" src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" width="auto" height="70" title='Cypress'/>
 Educate on cypress latests.
 
 ### ⏮️ Pre-requisites
