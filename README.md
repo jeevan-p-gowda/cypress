@@ -1,4 +1,4 @@
-# Cypress
+# cypress-overview
 Educate on cypress latests.
 
 ### ⏮️ Pre-requisites
